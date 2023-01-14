@@ -1,0 +1,34 @@
+
+.navbar{
+  margin: 30px;
+}
+.row{
+  margin-left: 45px;
+  width: 90%;
+ 
+ }
+.movies {
+  margin: 30px;
+  padding: 30px;
+  background-color: rgb(227, 222, 222);
+  border-radius: 10px;
+  height: 600px;
+  transition: 500ms linear;
+}
+.movies img{
+  height: 400px;
+}
+.movies:hover{
+  background-color: rgb(195, 207, 245);
+  margin: 20px auto;
+ 
+}
+.container-fluid{
+  background-color:  rgb(227, 222, 222);
+  padding: 20px;
+
+}
+.fav{
+  background-color: rgb(227, 222, 222);
+  padding: 10px;
+}
